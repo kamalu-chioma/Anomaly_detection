@@ -1,4 +1,4 @@
-# AI-Driven Anomaly Detection in Cybersecurity & Financial Fraud  
+# AI-Driven Anomaly Detection for Cybersecurity & Financial Fraud  
 
 ## Overview  
 This project leverages AI and machine learning to detect anomalies in cybersecurity threats and financial fraud. By applying PCA with K-means clustering on network traffic data and Auto-Encoders with t-SNE on transaction data, we improve fraud detection and risk assessment.  
