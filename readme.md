@@ -4,7 +4,7 @@
 This project leverages AI and machine learning to detect anomalies in cybersecurity threats and financial fraud. By applying PCA with K-means clustering on network traffic data and Auto-Encoders with t-SNE on transaction data, we improve fraud detection and risk assessment.  
 
 ## Key Highlights  
-- **AI-Powered Analysis:** PCA + K-means for cybersecurity threats; Auto-Encoders + t-SNE for fraud detection.  
+- **AI-Powered Analysis:** PCA + K-means for cyber threats; Auto-Encoders + t-SNE for fraud detection.  
 - **Feature Engineering:** PCA reduces noise, improving anomaly detection.  
 - **Unsupervised Learning:** K-means clusters suspicious patterns in network traffic.  
 - **Deep Learning:** Auto-Encoders extract hidden fraud indicators.  
