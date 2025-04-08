@@ -25,7 +25,7 @@ This project leverages AI and machine learning to detect anomalies in cybersecur
 - **t-SNE:** Visualizes suspicious financial activities.  
 
 ## Results  
-- **Cybersecurity:** PCA + K-means identified malicious network behaviors.  
+- **Cybersecurity:** Principal component analysis  + K-means identified malicious network behaviors.  
 - **Finance:** Auto-Encoders + t-SNE detected high-risk transactions.  
 
 ## Future Work  
